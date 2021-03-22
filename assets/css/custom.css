@@ -1,0 +1,30 @@
+/*
+Custom Css
+*/
+#mainnav ul{
+  list-style: none;
+}
+
+#mainnav ul li{
+  padding:10px 15px;
+  
+}
+
+.wrapper-menu{
+  position:relative;
+}
+
+
+
+
+.wrapper-dropdown:hover > .dropdown{
+  display:block;
+}
+
+
+
+.about {padding-top: 90px;}
+.about .about_box figure {margin: 0;}
+.about .about_box figure img {width: 100%;}
+.about .about_box h3 {color: #000; font-weight: bold; font-size: 30px; line-height: 35px;}
+.about .about_box p {color: #000; font-size: 17px; line-height: 23px; padding-top: 10px;}
